@@ -1,7 +1,8 @@
+//= require foundation/foundation.core
+
 //= require foundation/foundation.abide
 //= require foundation/foundation.accordion
 //= require foundation/foundation.accordionMenu
-//= require foundation/foundation.core
 //= require foundation/foundation.drilldown
 //= require foundation/foundation.dropdown
 //= require foundation/foundation.dropdownMenu
